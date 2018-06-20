@@ -162,7 +162,9 @@ ul li {
 	}
 
 	body {
-		background: #121314;
+		
+		background-image: url(./mobile.jpg);
+		background-color: : #121314;
 		color: #FEFEFE;
 	}
 
